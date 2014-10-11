@@ -1,6 +1,6 @@
-BOARD=pcduino3
+BOARD=ybkj
 ANDROID=
 SOC=a20
-UBOOT_CONFIG=pcduino3
+UBOOT_CONFIG=ybkj
 MACH=sun7i
 KERNEL_CONFIG=sun7i_defconfig
